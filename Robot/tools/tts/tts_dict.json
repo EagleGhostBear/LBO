@@ -1,0 +1,66 @@
+{
+    "0": {
+      "file": "guide_start.mp3",
+      "text": "경로 안내를 시작합니다."
+    },
+    "1": {
+      "file": "guide_end.mp3",
+      "text": "목적지에 도착했습니다."
+    },
+    "2": {
+      "file": "warning.mp3",
+      "text": "전방에 방해물이 있습니다."
+    },
+    "3": {
+      "file": "check_destination.mp3",
+      "text": "맞다면 다시 한 번 더 동일한 버튼을 눌려주세요."
+    },
+    "4": {
+      "file": "check_destination_1.mp3",
+      "text": "1번 목적지를 선택하셨습니다. 맞다면 다시 한 번 더 동일한 버튼을 눌려주세요."
+    },
+    "5": {
+      "file": "select_destination_1.mp3",
+      "text": "1번 목적지로 이동하는 경로를 생성합니다."
+    },
+    "6": {
+      "file": "check_destination_2.mp3",
+      "text": "2번 목적지를 선택하셨습니다. 맞다면 다시 한 번 더 동일한 버튼을 눌려주세요."
+    },
+    "7": {
+      "file": "select_destination_2.mp3",
+      "text": "2번 목적지로 이동하는 경로를 생성합니다."
+    },
+    "8": {
+      "file": "check_destination_1.mp3",
+      "text": "3번 목적지를 선택하셨습니다. 맞다면 다시 한 번 더 동일한 버튼을 눌려주세요."
+    },
+    "9": {
+      "file": "select_destination_2.mp3",
+      "text": "3번 목적지로 이동하는 경로를 생성합니다."
+    },
+    "10": {
+      "file": "check_destination_toilet.mp3",
+      "text": "화장실을 목적지로 선택하셨습니다. 맞다면 다시 한 번 더 동일한 버튼을 눌려주세요."
+    },
+    "11": {
+      "file": "select_destination_toliet.mp3",
+      "text": "화장실로 이동하는 경로를 생성합니다."
+    },
+    "12": {
+      "file": "check_destination_elevator.mp3",
+      "text": "엘리베이터 앞을 목적지로 선택하셨습니다. 맞다면 다시 한 번 더 동일한 버튼을 눌려주세요."
+    },
+    "13": {
+      "file": "select_destination_elevator.mp3",
+      "text": "엘리베이터 앞으로 이동하는 경로를 생성합니다."
+    },
+    "14": {
+      "file": "check_destination_last.mp3",
+      "text": "이전 위치를 목적지로 선택하셨습니다. 맞다면 다시 한 번 더 동일한 버튼을 눌려주세요."
+    },
+    "15": {
+      "file": "select_destination_last.mp3",
+      "text": "이전 위치로 이동하는 경로를 생성합니다."
+    }
+  }

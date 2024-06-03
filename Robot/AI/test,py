@@ -1,0 +1,20 @@
+from utils.camera import *
+
+def main():
+    cap = Cam(0, CONST_STR_WEBCAM)
+    cap.set_web_camera()
+
+    while cap.cap.isOpened():
+        cap.get_frame()
+
+        cv2.imshow(cap.window_title, cap.frame)
+        
+        keyCode = cv2.waitKey(10) & 0xFF
+        # Stop the program on the ESC key or 'q'
+        if keyCode == 27 or keyCode == ord('q'):
+            break
+    
+    cap.close_camera()
+
+if __name__ == "__main__":
+    main()
